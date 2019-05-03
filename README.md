@@ -17,6 +17,7 @@
   <li>Mojo::DOM</li>
   <li>JSON::XS</li>
   <li>Data::Dumper</li>
+  <li>Mozilla::CA</li>
 </ul>
 
 <p>create a cache file directory</p>
